@@ -21,3 +21,16 @@ uv run gimnasio-cli peso registrar 78.5                    # peso de la semana a
 uv run gimnasio-cli peso registrar 80 --semana 2026-W30    # corrige una semana pasada
 uv run gimnasio-cli peso ver                                # última semana registrada
 ```
+
+## Interfaz web
+
+También hay una interfaz web (convive con la CLI, misma lógica de negocio).
+Especificación: [`especificaciones/003-interfaz-web.md`](./especificaciones/003-interfaz-web.md).
+
+```bash
+uv run gimnasio-web    # levanta el servidor en http://127.0.0.1:5000
+```
+
+- `/` — estado semanal de rutinas y último peso registrado
+- `/dia/<nombre>` — detalle de la rutina de un día
+- `/peso` — ver y registrar/editar el peso corporal

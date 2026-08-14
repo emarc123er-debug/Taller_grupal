@@ -1,6 +1,6 @@
 # 003 - Interfaz web
 
-- **Estado:** Lista para implementar
+- **Estado:** Implementada (ver `README.md`)
 - **Fecha:** 2026-08-14
 
 ## Objetivo

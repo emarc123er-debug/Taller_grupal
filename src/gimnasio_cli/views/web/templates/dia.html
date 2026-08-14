@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block contenido %}
+  <h2>Rutina del {{ rutina.dia.value }}</h2>
+  {% if not rutina.definida %}
+    <p>Sin ejercicios definidos todavía.</p>
+  {% else %}
+    <table>
+      <thead>
+        <tr><th>Ejercicio</th><th>Series</th><th>Repeticiones</th><th>Descanso</th><th>Notas</th></tr>
+      </thead>
+      <tbody>
+        {% for ejercicio in rutina.ejercicios %}
+          <tr>
+            <td>{{ ejercicio.nombre }}</td>
+            <td>{{ ejercicio.series }}</td>
+            <td>{{ ejercicio.repeticiones }}</td>
+            <td>{{ ejercicio.descanso or "—" }}</td>
+            <td>{{ ejercicio.notas or "—" }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
+  <p><a href="{{ url_for('inicio') }}">← Volver a la semana</a></p>
+{% endblock %}

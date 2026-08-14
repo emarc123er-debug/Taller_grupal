@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block contenido %}
+  <h2>Rutinas de la semana (lunes a viernes)</h2>
+  <table>
+    <thead>
+      <tr><th>Día</th><th>Estado</th></tr>
+    </thead>
+    <tbody>
+      {% for dia in dias %}
+        {% set rutina = semana[dia] %}
+        <tr>
+          <td><a href="{{ url_for('ver_dia', nombre=dia.value) }}">{{ dia.value.capitalize() }}</a></td>
+          <td>{{ "Definida" if rutina.definida else "Pendiente" }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <h2>Peso corporal</h2>
+  {% if peso %}
+    <p>Semana {{ peso.semana }}: <strong>{{ peso.peso_kg }} kg</strong> (cargado el {{ peso.fecha_registro }})</p>
+  {% else %}
+    <p>Sin registros todavía.</p>
+  {% endif %}
+  <p><a href="{{ url_for('ver_peso') }}">Registrar / editar peso →</a></p>
+{% endblock %}
