@@ -54,7 +54,7 @@ entrenamiento le toca cada día.
 | Día | Estado | Detalle |
 |---|---|---|
 | Lunes | Definida | Sentadillas, press banca, remo con barra |
-| Martes | Pendiente | — |
+| Martes | Definida | Press militar, dominadas, curl de bíceps |
 | Miércoles | Pendiente | — |
 | Jueves | Pendiente | — |
 | Viernes | Pendiente | — |
@@ -68,3 +68,11 @@ entrenamiento le toca cada día.
 | Sentadillas | Por definir | Por definir | — | — | — |
 | Press banca | Por definir | Por definir | — | — | — |
 | Remo con barra | Por definir | Por definir | — | — | — |
+
+### Martes
+
+| Ejercicio | Series | Repeticiones | Peso | Descanso | Notas |
+|---|---|---|---|---|---|
+| Press militar | Por definir | Por definir | — | — | — |
+| Dominadas | Por definir | Por definir | — | — | — |
+| Curl de bíceps | Por definir | Por definir | — | — | — |
