@@ -1,6 +1,6 @@
 # 001 - Gimnasio: Rutinas semanales (lunes a viernes)
 
-- **Estado:** Especificación cerrada, lista para implementar
+- **Estado:** Implementada (CLI en `src/gimnasio_cli/`, ver `README.md`)
 - **Fecha:** 2026-08-14
 
 ## Objetivo
