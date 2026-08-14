@@ -24,10 +24,13 @@ salida en la terminal.
 2. Cada registro de peso queda asociado a la semana en la que se cargó (no a un día
    puntual como las rutinas).
 3. Debe ser posible registrar el peso de la semana actual.
-4. Debe ser posible consultar el historial de registros de peso corporal.
+4. Debe ser posible consultar el registro de peso corporal más reciente (última
+   semana registrada), no un historial completo.
 5. Si ya existe un registro para la semana en curso, un nuevo registro lo reemplaza
    (no se permite más de un valor por semana).
-6. La salida de la CLI usa **color azul** para resaltar: títulos de sección, el
+6. Debe ser posible editar/corregir el registro de una semana pasada (no solo el de
+   la semana actual).
+7. La salida de la CLI usa **color azul** para resaltar: títulos de sección, el
    peso registrado y encabezados de tablas/listas.
 
 ## Modelo de datos (propuesto)
@@ -42,9 +45,7 @@ salida en la terminal.
 - **Unidad:** kilogramos (kg).
 - **Frecuencia:** un único valor de peso por semana.
 - **Color de la aplicación:** azul.
-
-## Preguntas abiertas
-
-- ¿Se debe poder editar/corregir un registro de una semana pasada, o solo el de la
-  semana actual?
-- ¿El historial de peso se muestra completo o limitado a las últimas N semanas?
+- **Edición:** se puede editar/corregir un registro de una semana pasada (no solo el
+  de la semana actual).
+- **Historial:** se muestra limitado a la última semana registrada (no el historial
+  completo).
