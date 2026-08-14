@@ -1,0 +1,37 @@
+{
+  "lunes": {
+    "ejercicios": [
+      { "nombre": "Sentadillas", "series": 4, "repeticiones": "8-10", "peso": null, "descanso": "90 s", "notas": "Ejercicio compuesto" },
+      { "nombre": "Press banca", "series": 4, "repeticiones": "8-10", "peso": null, "descanso": "90 s", "notas": "Ejercicio compuesto" },
+      { "nombre": "Remo con barra", "series": 4, "repeticiones": "8-10", "peso": null, "descanso": "90 s", "notas": "Ejercicio compuesto" }
+    ]
+  },
+  "martes": {
+    "ejercicios": [
+      { "nombre": "Press militar", "series": 4, "repeticiones": "8-10", "peso": null, "descanso": "90 s", "notas": "Ejercicio compuesto" },
+      { "nombre": "Dominadas", "series": 4, "repeticiones": "8-10", "peso": null, "descanso": "90 s", "notas": "Ejercicio compuesto" },
+      { "nombre": "Curl de bíceps", "series": 3, "repeticiones": "12-15", "peso": null, "descanso": "60 s", "notas": "Ejercicio de aislamiento" }
+    ]
+  },
+  "miercoles": {
+    "ejercicios": [
+      { "nombre": "Press militar", "series": 4, "repeticiones": "8-10", "peso": null, "descanso": "90 s", "notas": "Ejercicio compuesto" },
+      { "nombre": "Sentadilla búlgara", "series": 3, "repeticiones": "10-12 por pierna", "peso": null, "descanso": "60 s", "notas": "Ejercicio unilateral" },
+      { "nombre": "Extensión de tríceps", "series": 3, "repeticiones": "12-15", "peso": null, "descanso": "60 s", "notas": "Ejercicio de aislamiento" }
+    ]
+  },
+  "jueves": {
+    "ejercicios": [
+      { "nombre": "Peso muerto", "series": 4, "repeticiones": "6-8", "peso": null, "descanso": "120 s", "notas": "Ejercicio compuesto pesado" },
+      { "nombre": "Remo con mancuerna", "series": 3, "repeticiones": "10-12 por brazo", "peso": null, "descanso": "60 s", "notas": "Ejercicio unilateral" },
+      { "nombre": "Curl femoral", "series": 3, "repeticiones": "12-15", "peso": null, "descanso": "60 s", "notas": "Ejercicio de aislamiento" }
+    ]
+  },
+  "viernes": {
+    "ejercicios": [
+      { "nombre": "Sentadillas", "series": 4, "repeticiones": "8-10", "peso": null, "descanso": "90 s", "notas": "Ejercicio compuesto" },
+      { "nombre": "Press banca", "series": 4, "repeticiones": "8-10", "peso": null, "descanso": "90 s", "notas": "Ejercicio compuesto" },
+      { "nombre": "Remo con barra", "series": 4, "repeticiones": "8-10", "peso": null, "descanso": "90 s", "notas": "Ejercicio compuesto" }
+    ]
+  }
+}
