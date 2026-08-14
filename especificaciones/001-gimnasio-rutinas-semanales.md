@@ -53,10 +53,18 @@ entrenamiento le toca cada día.
 
 | Día | Estado | Detalle |
 |---|---|---|
-| Lunes | Pendiente | — |
+| Lunes | Definida | Sentadillas, press banca, remo con barra |
 | Martes | Pendiente | — |
 | Miércoles | Pendiente | — |
 | Jueves | Pendiente | — |
 | Viernes | Pendiente | — |
 
 > Esta tabla se irá completando a medida que el usuario indique la rutina de cada día.
+
+### Lunes
+
+| Ejercicio | Series | Repeticiones | Peso | Descanso | Notas |
+|---|---|---|---|---|---|
+| Sentadillas | Por definir | Por definir | — | — | — |
+| Press banca | Por definir | Por definir | — | — | — |
+| Remo con barra | Por definir | Por definir | — | — | — |
