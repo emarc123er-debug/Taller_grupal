@@ -43,12 +43,14 @@ entrenamiento le toca cada día.
   - `descanso`: texto/número (opcional)
   - `notas`: texto (opcional)
 
+## Decisiones
+
+- **Usuarios:** aplicación de un único usuario, sin login ni autenticación.
+- **Persistencia:** almacenamiento en un archivo local (no requiere base de datos por ahora).
+
 ## Preguntas abiertas
 
-- ¿La aplicación es para un solo usuario o debe soportar múltiples usuarios/login?
 - ¿Interfaz de uso: web, CLI, escritorio o API?
-- ¿Se requiere persistencia en base de datos, o alcanza con almacenamiento en archivo
-  local para esta primera versión?
 
 ## Rutinas por día
 
