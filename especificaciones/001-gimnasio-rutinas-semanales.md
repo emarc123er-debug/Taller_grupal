@@ -1,7 +1,7 @@
 # 001 - Gimnasio: Rutinas semanales (lunes a viernes)
 
-- **Estado:** Lista para implementar (los 5 días tienen ejercicios definidos; series y
-  repeticiones quedan pendientes de precisar)
+- **Estado:** Lista para implementar (los 5 días tienen ejercicios, series y
+  repeticiones definidos; el peso es opcional y queda a criterio del usuario)
 - **Fecha:** 2026-08-14
 
 ## Objetivo
@@ -66,38 +66,38 @@ entrenamiento le toca cada día.
 
 | Ejercicio | Series | Repeticiones | Peso | Descanso | Notas |
 |---|---|---|---|---|---|
-| Sentadillas | Por definir | Por definir | — | — | — |
-| Press banca | Por definir | Por definir | — | — | — |
-| Remo con barra | Por definir | Por definir | — | — | — |
+| Sentadillas | 4 | 8-10 | — | 90 s | Ejercicio compuesto |
+| Press banca | 4 | 8-10 | — | 90 s | Ejercicio compuesto |
+| Remo con barra | 4 | 8-10 | — | 90 s | Ejercicio compuesto |
 
 ### Martes
 
 | Ejercicio | Series | Repeticiones | Peso | Descanso | Notas |
 |---|---|---|---|---|---|
-| Press militar | Por definir | Por definir | — | — | — |
-| Dominadas | Por definir | Por definir | — | — | — |
-| Curl de bíceps | Por definir | Por definir | — | — | — |
+| Press militar | 4 | 8-10 | — | 90 s | Ejercicio compuesto |
+| Dominadas | 4 | 8-10 | — | 90 s | Ejercicio compuesto |
+| Curl de bíceps | 3 | 12-15 | — | 60 s | Ejercicio de aislamiento |
 
 ### Miércoles
 
 | Ejercicio | Series | Repeticiones | Peso | Descanso | Notas |
 |---|---|---|---|---|---|
-| Press militar | Por definir | Por definir | — | — | — |
-| Sentadilla búlgara | Por definir | Por definir | — | — | — |
-| Extensión de tríceps | Por definir | Por definir | — | — | — |
+| Press militar | 4 | 8-10 | — | 90 s | Ejercicio compuesto |
+| Sentadilla búlgara | 3 | 10-12 por pierna | — | 60 s | Ejercicio unilateral |
+| Extensión de tríceps | 3 | 12-15 | — | 60 s | Ejercicio de aislamiento |
 
 ### Jueves
 
 | Ejercicio | Series | Repeticiones | Peso | Descanso | Notas |
 |---|---|---|---|---|---|
-| Peso muerto | Por definir | Por definir | — | — | — |
-| Remo con mancuerna | Por definir | Por definir | — | — | — |
-| Curl femoral | Por definir | Por definir | — | — | — |
+| Peso muerto | 4 | 6-8 | — | 120 s | Ejercicio compuesto pesado |
+| Remo con mancuerna | 3 | 10-12 por brazo | — | 60 s | Ejercicio unilateral |
+| Curl femoral | 3 | 12-15 | — | 60 s | Ejercicio de aislamiento |
 
 ### Viernes
 
 | Ejercicio | Series | Repeticiones | Peso | Descanso | Notas |
 |---|---|---|---|---|---|
-| Sentadillas | Por definir | Por definir | — | — | — |
-| Press banca | Por definir | Por definir | — | — | — |
-| Remo con barra | Por definir | Por definir | — | — | — |
+| Sentadillas | 4 | 8-10 | — | 90 s | Ejercicio compuesto |
+| Press banca | 4 | 8-10 | — | 90 s | Ejercicio compuesto |
+| Remo con barra | 4 | 8-10 | — | 90 s | Ejercicio compuesto |
