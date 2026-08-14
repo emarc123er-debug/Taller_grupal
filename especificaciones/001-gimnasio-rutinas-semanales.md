@@ -55,7 +55,7 @@ entrenamiento le toca cada día.
 |---|---|---|
 | Lunes | Definida | Sentadillas, press banca, remo con barra |
 | Martes | Definida | Press militar, dominadas, curl de bíceps |
-| Miércoles | Pendiente | — |
+| Miércoles | Definida | Press militar, sentadilla búlgara, extensión de tríceps |
 | Jueves | Pendiente | — |
 | Viernes | Pendiente | — |
 
@@ -76,3 +76,11 @@ entrenamiento le toca cada día.
 | Press militar | Por definir | Por definir | — | — | — |
 | Dominadas | Por definir | Por definir | — | — | — |
 | Curl de bíceps | Por definir | Por definir | — | — | — |
+
+### Miércoles
+
+| Ejercicio | Series | Repeticiones | Peso | Descanso | Notas |
+|---|---|---|---|---|---|
+| Press militar | Por definir | Por definir | — | — | — |
+| Sentadilla búlgara | Por definir | Por definir | — | — | — |
+| Extensión de tríceps | Por definir | Por definir | — | — | — |
