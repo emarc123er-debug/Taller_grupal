@@ -25,4 +25,4 @@ Ver `/CLAUDE.md` en la raíz del repositorio para el detalle de estas convencion
 | # | Especificación | Estado |
 |---|---|---|
 | 001 | [Gimnasio - Rutinas semanales](./001-gimnasio-rutinas-semanales.md) | Implementada |
-| 002 | [Peso corporal semanal y color de la app](./002-peso-corporal-y-color-app.md) | Lista para implementar |
+| 002 | [Peso corporal semanal y color de la app](./002-peso-corporal-y-color-app.md) | Implementada |

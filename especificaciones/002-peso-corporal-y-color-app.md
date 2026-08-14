@@ -1,6 +1,6 @@
 # 002 - Registro de peso corporal semanal y color de la aplicación
 
-- **Estado:** Lista para implementar
+- **Estado:** Implementada (ver `README.md`)
 - **Fecha:** 2026-08-14
 
 ## Objetivo
