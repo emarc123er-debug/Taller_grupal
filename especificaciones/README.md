@@ -24,4 +24,4 @@ Ver `/CLAUDE.md` en la raíz del repositorio para el detalle de estas convencion
 
 | # | Especificación | Estado |
 |---|---|---|
-| 001 | [Gimnasio - Rutinas semanales](./001-gimnasio-rutinas-semanales.md) | Lista para implementar |
+| 001 | [Gimnasio - Rutinas semanales](./001-gimnasio-rutinas-semanales.md) | Cerrada, lista para implementar |

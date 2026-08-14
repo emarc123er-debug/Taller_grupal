@@ -1,7 +1,6 @@
 # 001 - Gimnasio: Rutinas semanales (lunes a viernes)
 
-- **Estado:** Lista para implementar (los 5 días tienen ejercicios, series y
-  repeticiones definidos; el peso es opcional y queda a criterio del usuario)
+- **Estado:** Especificación cerrada, lista para implementar
 - **Fecha:** 2026-08-14
 
 ## Objetivo
@@ -47,10 +46,7 @@ entrenamiento le toca cada día.
 
 - **Usuarios:** aplicación de un único usuario, sin login ni autenticación.
 - **Persistencia:** almacenamiento en un archivo local (no requiere base de datos por ahora).
-
-## Preguntas abiertas
-
-- ¿Interfaz de uso: web, CLI, escritorio o API?
+- **Interfaz:** CLI (línea de comandos).
 
 ## Rutinas por día
 
