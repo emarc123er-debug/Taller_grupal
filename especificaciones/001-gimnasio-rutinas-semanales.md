@@ -1,6 +1,7 @@
 # 001 - Gimnasio: Rutinas semanales (lunes a viernes)
 
-- **Estado:** En progreso (el contenido de las rutinas se irá completando día a día)
+- **Estado:** Lista para implementar (los 5 días tienen ejercicios definidos; series y
+  repeticiones quedan pendientes de precisar)
 - **Fecha:** 2026-08-14
 
 ## Objetivo
@@ -57,7 +58,7 @@ entrenamiento le toca cada día.
 | Martes | Definida | Press militar, dominadas, curl de bíceps |
 | Miércoles | Definida | Press militar, sentadilla búlgara, extensión de tríceps |
 | Jueves | Definida | Peso muerto, remo con mancuerna, curl femoral |
-| Viernes | Pendiente | — |
+| Viernes | Definida | Sentadillas, press banca, remo con barra |
 
 > Esta tabla se irá completando a medida que el usuario indique la rutina de cada día.
 
@@ -92,3 +93,11 @@ entrenamiento le toca cada día.
 | Peso muerto | Por definir | Por definir | — | — | — |
 | Remo con mancuerna | Por definir | Por definir | — | — | — |
 | Curl femoral | Por definir | Por definir | — | — | — |
+
+### Viernes
+
+| Ejercicio | Series | Repeticiones | Peso | Descanso | Notas |
+|---|---|---|---|---|---|
+| Sentadillas | Por definir | Por definir | — | — | — |
+| Press banca | Por definir | Por definir | — | — | — |
+| Remo con barra | Por definir | Por definir | — | — | — |
